@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+background-color: #7371768c                                                                                                         
+}
+
+#banner {
+  width: 35%;
+}
+#banner 
+     width center
+h1{
+    text-align: center;
+    height: 150px;
+    border: 10px solid #ebe6ee
+     20px;
+    margin-left : 15px
+}
+  .itens {
+      font-size: 19px;
+      font-style: italic;
+      color: #000000
+    }
+    .imagembeneficios{
+      width: 40%
+    }
+
+    .beneficios{
+       color: #f70606;
+
+    }
+  
